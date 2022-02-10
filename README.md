@@ -27,3 +27,5 @@ ___
 
 Replit : replit.com/@FireRun/aa#README.md  
 Github : github.com/EntryFireRun/aa/blob/main/README.md
+
+import : import('https://raw.githack.com/EntryFireRun/aa/blob/main/index.js')
