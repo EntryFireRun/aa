@@ -26,4 +26,4 @@ while(true){ //무한반복 요청
 ___
 
 Replit : replit.com/@FireRun/aa#README.md
-Github : 
+Github : github.com/EntryFireRun/aa/blob/main/README.md
